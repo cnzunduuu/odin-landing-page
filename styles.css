@@ -172,3 +172,29 @@ figcaption {
   font-weight: 700;
   font-size: 20px;
 }
+
+/* SIGN UP SECTION */
+.signup-section {
+  min-height: 450px;
+  align-items: center;
+}
+
+.signup-container {
+  background-color: #b36633;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 6px;
+  
+}
+
+.signup-button {
+  border: 2px solid white;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  padding: 16px o;
+}
